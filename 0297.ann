@@ -1,7 +1,7 @@
-T1	Word	0 3	<s>
-T2	Word	4 11	sitelen
-T3	Word	12 16	insa
-T4	Word	17 21	sina
-T5	Word	22 24	li
-T6	Word	25 29	nasa
-T7	Word	30 31	.
+T1	Word 0 3	<s>
+T2	Word 4 11	sitelen
+T3	Word 12 16	insa
+T4	Word 17 21	sina
+T5	Word 22 24	li
+T6	Word 25 29	nasa
+T7	Word 30 31	.

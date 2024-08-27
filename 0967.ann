@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 10	kalama
-T3	Word	11 15	musi
-T4	Word	16 18	li
-T5	Word	19 23	pali
-T6	Word	24 25	e
-T7	Word	26 30	seme
-T8	Word	31 32	?
+T1	Word 0 3	<s>
+T2	Word 4 10	kalama
+T3	Word 11 15	musi
+T4	Word 16 18	li
+T5	Word 19 23	pali
+T6	Word 24 25	e
+T7	Word 26 30	seme
+T8	Word 31 32	?

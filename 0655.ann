@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 6	mi
-T3	Word	7 10	jan
-T4	Word	11 13	pi
-T5	Word	14 18	pana
-T6	Word	19 23	sona
-T7	Word	24 27	kin
-T8	Word	28 29	.
+T1	Word 0 3	<s>
+T2	Word 4 6	mi
+T3	Word 7 10	jan
+T4	Word 11 13	pi
+T5	Word 14 18	pana
+T6	Word 19 23	sona
+T7	Word 24 27	kin
+T8	Word 28 29	.

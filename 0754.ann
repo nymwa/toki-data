@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 8	lipu
-T3	Word	9 13	mute
-T4	Word	14 16	li
-T5	Word	17 20	lon
-T6	Word	21 25	tomo
-T7	Word	26 30	lipu
-T8	Word	31 32	.
+T1	Word 0 3	<s>
+T2	Word 4 8	lipu
+T3	Word 9 13	mute
+T4	Word 14 16	li
+T5	Word 17 20	lon
+T6	Word 21 25	tomo
+T7	Word 26 30	lipu
+T8	Word 31 32	.

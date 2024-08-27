@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 8	mama
-T3	Word	9 11	li
-T4	Word	12 16	weka
-T5	Word	17 18	e
-T6	Word	19 23	selo
-T7	Word	24 27	pan
-T8	Word	28 29	.
+T1	Word 0 3	<s>
+T2	Word 4 8	mama
+T3	Word 9 11	li
+T4	Word 12 16	weka
+T5	Word 17 18	e
+T6	Word 19 23	selo
+T7	Word 24 27	pan
+T8	Word 28 29	.

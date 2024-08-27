@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 7	jan
-T3	Word	8 11	Ton
-T4	Word	12 14	li
-T5	Word	15 18	jan
-T6	Word	19 23	lawa
-T7	Word	24 26	mi
-T8	Word	27 28	.
+T1	Word 0 3	<s>
+T2	Word 4 7	jan
+T3	Word 8 11	Ton
+T4	Word 12 14	li
+T5	Word 15 18	jan
+T6	Word 19 23	lawa
+T7	Word 24 26	mi
+T8	Word 27 28	.

@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 8	lipu
-T3	Word	9 11	ni
-T4	Word	12 14	li
-T5	Word	15 19	kama
-T6	Word	20 23	lon
-T7	Word	24 28	seme
-T8	Word	29 30	?
+T1	Word 0 3	<s>
+T2	Word 4 8	lipu
+T3	Word 9 11	ni
+T4	Word 12 14	li
+T5	Word 15 19	kama
+T6	Word 20 23	lon
+T7	Word 24 28	seme
+T8	Word 29 30	?

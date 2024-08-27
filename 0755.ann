@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 6	mi
-T3	Word	7 9	jo
-T4	Word	10 13	kin
-T5	Word	14 15	e
-T6	Word	16 21	tenpo
-T7	Word	22 25	ala
-T8	Word	26 27	.
+T1	Word 0 3	<s>
+T2	Word 4 6	mi
+T3	Word 7 9	jo
+T4	Word 10 13	kin
+T5	Word 14 15	e
+T6	Word 16 21	tenpo
+T7	Word 22 25	ala
+T8	Word 26 27	.

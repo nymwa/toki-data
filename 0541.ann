@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 7	kon
-T3	Word	8 12	pona
-T4	Word	13 15	li
-T5	Word	16 19	lon
-T6	Word	20 26	sijelo
-T7	Word	27 31	pona
-T8	Word	32 33	.
+T1	Word 0 3	<s>
+T2	Word 4 7	kon
+T3	Word 8 12	pona
+T4	Word 13 15	li
+T5	Word 16 19	lon
+T6	Word 20 26	sijelo
+T7	Word 27 31	pona
+T8	Word 32 33	.

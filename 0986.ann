@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 8	suno
-T3	Word	9 12	anu
-T4	Word	13 15	ma
-T5	Word	16 18	li
-T6	Word	19 23	suli
-T7	Word	24 28	mute
-T8	Word	29 30	?
+T1	Word 0 3	<s>
+T2	Word 4 8	suno
+T3	Word 9 12	anu
+T4	Word 13 15	ma
+T5	Word 16 18	li
+T6	Word 19 23	suli
+T7	Word 24 28	mute
+T8	Word 29 30	?

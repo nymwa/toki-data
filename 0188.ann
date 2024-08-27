@@ -1,7 +1,7 @@
-T1	Word	0 3	<s>
-T2	Word	4 6	mi
-T3	Word	7 11	weka
-T4	Word	12 16	sona
-T5	Word	17 18	e
-T6	Word	19 22	ona
-T7	Word	23 24	.
+T1	Word 0 3	<s>
+T2	Word 4 6	mi
+T3	Word 7 11	weka
+T4	Word 12 16	sona
+T5	Word 17 18	e
+T6	Word 19 22	ona
+T7	Word 23 24	.

@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 6	mi
-T3	Word	7 11	sama
-T4	Word	12 17	kiwen
-T5	Word	18 21	tan
-T6	Word	22 27	pilin
-T7	Word	28 35	monsuta
-T8	Word	36 37	.
+T1	Word 0 3	<s>
+T2	Word 4 6	mi
+T3	Word 7 11	sama
+T4	Word 12 17	kiwen
+T5	Word 18 21	tan
+T6	Word 22 27	pilin
+T7	Word 28 35	monsuta
+T8	Word 36 37	.

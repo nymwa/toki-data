@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 8	lipu
-T3	Word	9 14	tenpo
-T4	Word	15 17	mi
-T5	Word	18 20	li
-T6	Word	21 25	nasa
-T7	Word	26 27	a
-T8	Word	28 29	.
+T1	Word 0 3	<s>
+T2	Word 4 8	lipu
+T3	Word 9 14	tenpo
+T4	Word 15 17	mi
+T5	Word 18 20	li
+T6	Word 21 25	nasa
+T7	Word 26 27	a
+T8	Word 28 29	.

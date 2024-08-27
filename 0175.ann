@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 6	mi
-T3	Word	7 9	la
-T4	Word	10 14	toki
-T5	Word	15 19	mama
-T6	Word	20 22	li
-T7	Word	23 26	ala
-T8	Word	27 28	.
+T1	Word 0 3	<s>
+T2	Word 4 6	mi
+T3	Word 7 9	la
+T4	Word 10 14	toki
+T5	Word 15 19	mama
+T6	Word 20 22	li
+T7	Word 23 26	ala
+T8	Word 27 28	.

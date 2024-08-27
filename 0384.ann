@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 11	monsuta
-T3	Word	12 14	pi
-T4	Word	15 20	nasin
-T5	Word	21 25	toki
-T6	Word	26 27	o
-T7	Word	28 32	moli
-T8	Word	33 34	.
+T1	Word 0 3	<s>
+T2	Word 4 11	monsuta
+T3	Word 12 14	pi
+T4	Word 15 20	nasin
+T5	Word 21 25	toki
+T6	Word 26 27	o
+T7	Word 28 32	moli
+T8	Word 33 34	.

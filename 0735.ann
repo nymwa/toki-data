@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 8	sina
-T3	Word	9 13	pana
-T4	Word	14 15	e
-T5	Word	16 19	ale
-T6	Word	20 24	tawa
-T7	Word	25 28	ona
-T8	Word	29 30	.
+T1	Word 0 3	<s>
+T2	Word 4 8	sina
+T3	Word 9 13	pana
+T4	Word 14 15	e
+T5	Word 16 19	ale
+T6	Word 20 24	tawa
+T7	Word 25 28	ona
+T8	Word 29 30	.

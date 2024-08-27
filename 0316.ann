@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 5	o
-T3	Word	6 10	pini
-T4	Word	11 14	ala
-T5	Word	15 16	e
-T6	Word	17 21	musi
-T7	Word	22 26	sina
-T8	Word	27 28	.
+T1	Word 0 3	<s>
+T2	Word 4 5	o
+T3	Word 6 10	pini
+T4	Word 11 14	ala
+T5	Word 15 16	e
+T6	Word 17 21	musi
+T7	Word 22 26	sina
+T8	Word 27 28	.

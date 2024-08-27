@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 9	tenpo
-T3	Word	10 16	pimeja
-T4	Word	17 19	ni
-T5	Word	20 22	la
-T6	Word	23 25	mi
-T7	Word	26 29	ken
-T8	Word	30 31	.
+T1	Word 0 3	<s>
+T2	Word 4 9	tenpo
+T3	Word 10 16	pimeja
+T4	Word 17 19	ni
+T5	Word 20 22	la
+T6	Word 23 25	mi
+T7	Word 26 29	ken
+T8	Word 30 31	.

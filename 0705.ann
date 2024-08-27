@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 10	kulupu
-T3	Word	11 14	ike
-T4	Word	15 17	li
-T5	Word	18 24	pakala
-T6	Word	25 26	e
-T7	Word	27 29	mi
-T8	Word	30 31	.
+T1	Word 0 3	<s>
+T2	Word 4 10	kulupu
+T3	Word 11 14	ike
+T4	Word 15 17	li
+T5	Word 18 24	pakala
+T6	Word 25 26	e
+T7	Word 27 29	mi
+T8	Word 30 31	.

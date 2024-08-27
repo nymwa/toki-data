@@ -1,7 +1,7 @@
-T1	Word	0 3	<s>
-T2	Word	4 7	jan
-T3	Word	8 12	lili
-T4	Word	13 15	li
-T5	Word	16 21	pilin
-T6	Word	22 26	pona
-T7	Word	27 28	.
+T1	Word 0 3	<s>
+T2	Word 4 7	jan
+T3	Word 8 12	lili
+T4	Word 13 15	li
+T5	Word 16 21	pilin
+T6	Word 22 26	pona
+T7	Word 27 28	.

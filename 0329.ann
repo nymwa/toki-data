@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 9	nanpa
-T3	Word	10 14	pona
-T4	Word	15 18	ona
-T5	Word	19 21	li
-T6	Word	22 26	pona
-T7	Word	27 31	mute
-T8	Word	32 33	.
+T1	Word 0 3	<s>
+T2	Word 4 9	nanpa
+T3	Word 10 14	pona
+T4	Word 15 18	ona
+T5	Word 19 21	li
+T6	Word 22 26	pona
+T7	Word 27 31	mute
+T8	Word 32 33	.

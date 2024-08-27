@@ -1,8 +1,8 @@
-T1	Word	0 3	<s>
-T2	Word	4 6	mi
-T3	Word	7 9	jo
-T4	Word	10 11	e
-T5	Word	12 15	len
-T6	Word	16 20	jelo
-T7	Word	21 25	laso
-T8	Word	26 27	.
+T1	Word 0 3	<s>
+T2	Word 4 6	mi
+T3	Word 7 9	jo
+T4	Word 10 11	e
+T5	Word 12 15	len
+T6	Word 16 20	jelo
+T7	Word 21 25	laso
+T8	Word 26 27	.
